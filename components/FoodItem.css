@@ -1,0 +1,19 @@
+.foodItem {
+    padding: 0.5em;
+    border: 1px solid white;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    margin-top: 0.5em;
+}
+.food-component {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.food-img {
+    width: 64px;
+    height: 64px;
+}
+.food-link {
+    color: white
+}
